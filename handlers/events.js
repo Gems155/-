@@ -20,9 +20,3 @@ module.exports = (client) => {
     });
     console.log(chalk.greenBright(table.toString()));
 };
-
-///////////////////////////////////////////////////////////////////
-///////// dev by tn hazem youtube
-///////// server discord https://discord.gg/c4-clan-community-917454141087965244
-//////// Development c4 clan community
-/////////////////////////////////////////////////////////////////
